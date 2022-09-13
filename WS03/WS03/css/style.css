@@ -1,0 +1,22 @@
+body {
+    background-color: black;
+    color: white;
+}
+h1 {
+    font-size: 20px;
+}
+p {
+    font-size: 10px;
+    color: lightgray;
+}
+.boksi-dotted {
+    width: 100px;
+    height: 100px;
+    border: 2px dotted;
+}
+ol {
+    list-style: upper-latin;
+}
+ul {
+    list-style: square;
+}
